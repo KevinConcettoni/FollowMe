@@ -1,0 +1,5 @@
+rootProject.name = 'it.unicam.cs.followme'
+include 'utilities'
+include 'api'
+include 'app'
+
