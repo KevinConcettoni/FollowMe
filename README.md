@@ -1,5 +1,5 @@
 
-# Follow Me - Concettoni Kevin
+# Follow Me
 
 Programma realizzato per l'esame di Metodologie di Programmazione del corso di Informatica dell'Università di Camerino. 
 L’obiettivo del progetto è quello di realizzare una libreria Java che consenta la simulazione di uno sciame di robot che si muovono nello spazio. 
